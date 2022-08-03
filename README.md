@@ -1,2 +1,2 @@
 # AirBnB_clone
- AirBnB clone project
+ AirBnB clone group project
