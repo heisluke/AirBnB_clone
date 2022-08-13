@@ -15,6 +15,6 @@ Contributing Guide
 [Feat] - Represents a new file, or function that adds a feature, format - [Feat]: Enable printing errors
 [Update] - Represents a generic update(Usually for testing).
 Authors
-Luke Bamtefa
+Luke Bamtefa 
 Rebecca Durojaiye
 
