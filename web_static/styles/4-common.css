@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    color: #484848;
+    font-size: 14px;
+    font-family: Circular Std Medium Regular,"Helvetica Neue",Helvetica,Arial,sans-serif;
+
+}
+
+.wrapper {
+    position: relative;
+    min-height: 100vh;
+}
+
+
+
+.container {
+    max-width: 1000px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
