@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Here is the code ohh, please pass test
+# Here is the code, please pass test
 def add_numbers(a, b):
     # This function adds two numbers
     result = a + b
